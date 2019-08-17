@@ -8,7 +8,7 @@ alias upsh='source ~/.bashrc'
 alias c=clear
 alias cls=clear
 alias na=nano
-alias fig='docker compose'
+alias fig='docker-compose'
 # alias (git)
 alias gsta='git status'
 alias gadd='git add'
