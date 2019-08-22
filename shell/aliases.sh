@@ -12,6 +12,7 @@ alias fig='docker-compose'
 # alias (git)
 alias gsta='git status'
 alias gadd='git add'
+alias gres='git reset'
 alias gdif='git diff'
 alias glog='git log'
 alias gcom='git commit'
